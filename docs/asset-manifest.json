@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef0d2bef.css",
+    "main.js": "/static/js/main.1dce2ee0.js",
+    "static/media/boookStore.png": "/static/media/boookStore.9868edc657fc21152fcf.png",
+    "static/media/calculator.png": "/static/media/calculator.2329bc5634e5d33d6091.png",
+    "static/media/download.png": "/static/media/download.bdfdef15c9dca072aae2.png",
+    "static/media/sitebg.jpg": "/static/media/sitebg.54724d703024833ef9c6.jpg",
+    "static/media/image.png": "/static/media/image.8f457119ab40646ed9de.png",
+    "static/media/profilepp.jpg": "/static/media/profilepp.14dc934a7ae6d7ff7b08.jpg",
+    "static/media/project_1copy.jpg": "/static/media/project_1copy.b9fc9afe0fde7dd7ac0e.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.ef0d2bef.css.map": "/static/css/main.ef0d2bef.css.map",
+    "main.1dce2ee0.js.map": "/static/js/main.1dce2ee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef0d2bef.css",
+    "static/js/main.1dce2ee0.js"
+  ]
+}

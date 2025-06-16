@@ -16,8 +16,7 @@ const AboutUs = () => {
                     <div className='text-gray-300 my-3'>
                         <h3 className='text-4xl font-semibold mb-5'>About <span className='primary-text'>Me</span></h3>
                         <p className='text-justify leading-7 w-11/12 mx-auto'>
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus magnam nostrum repellat inventore! Fuga reiciendis eius autem nostrum adipisci eos magni, ad praesentium, temporibus tempore obcaecati dolorum necessitatibus corporis natus.
-
+                            2+ years of experience designing, building, and maintaining the core systems that power applications. I thrive on crafting clean, efficient APIs, architecting robust databases, and ensuring our services are scalable, secure, and performant under pressure. I'm constantly exploring new technologies and best practices to build better foundations, aiming to deliver exceptional value by solving complex problems efficiently and exceeding technical objectives.
                         </p>
                     </div>
                 </div>

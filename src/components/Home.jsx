@@ -28,7 +28,7 @@ const Home = () => {
             <div className='flex justify-center items-center'>
               <p className='md:text-5xl sm:text-4xl text-xl font-bold  text-gray-500'>with 2 years Experience</p>
             </div>
-            <div className='text-5xl flex justify-start gap-16 my-7 text-purple-600'>
+            <div className='text-5xl flex justify-start gap-6 my-7 text-purple-600'>
             <a
           href="https://www.linkedin.com/in/sunil-karki-4705a82ab/"
           target="_blank"
@@ -55,7 +55,7 @@ const Home = () => {
                group-hover:-inset-1 group-hover:duration-200 animate-tilt">
 
               </div>
-            <a href="/" title="Download CV"role="button"
+            <a href="/Sunil_Karki_CV.pdf" title="Download CV"role="button" download
             className="w-[190px] h-[60px] relative inline-flex items-center justify-center px-8 py-4 text-lg
             font-bold text-white transition-all duration bg-primary-color font-pj rounded-xl
             focus:outline-none focus:ring-offset-2 focus:ring-gray-900"

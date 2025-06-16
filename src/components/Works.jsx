@@ -1,5 +1,8 @@
 import React from 'react'
 import project from '../assets/project_1copy.jpg'
+import bookstore from '../assets/boookStore.png'
+import image from '../assets/image.png'
+import calculator from '../assets/calculator.png'
 const Works = () => {
   return (
     <div className='py-6 max-w-[1200px] mx auto'id='work'>
@@ -14,17 +17,23 @@ const Works = () => {
                     </p>
                 </div>
             </div>
-            <div className='grid gap-4 grid-cols-2  sm:grid-cols-3 md:gap-6 xl:gap-8 mx-auto'>
-                <a href="https://github.com/sunilkarky/nodeProject" class="group h-48 overflow-hidden rounded-lg shadow-lg md:h-80" >
-                    <img src={project} alt="" class="h-full w-full object-cover object-center transition duration-200
+            <div className='grid gap-4 grid-cols-2  sm:grid-cols-1 md:gap-6 xl:gap-8 mx-auto'>
+                <a href="https://postgres-crud-eight.vercel.app" class="group h-48 overflow-hidden rounded-lg shadow-lg md:h-80" >
+                    <img src={bookstore} alt="" class="h-full w-full object-cover object-center transition duration-200
+                     group-hover:scale-110"/>
+                </a>
+                  <a href="https://github.com/sunilkarky/nodeProject" class="group h-48 overflow-hidden rounded-lg shadow-lg md:h-80" >
+                    <img src={calculator} alt="" class="h-full w-full object-cover object-center transition duration-200
+                     group-hover:scale-110"/>
+                </a>
+                
+<a href="https://ai-mock-interview-platform-plum.vercel.app/" class="group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80" >
+                    <img src={image} alt="" class="h-full w-auto object-fill  object-center transition duration-200
                      group-hover:scale-110"/>
                 </a>
 
-
-                <a href="/" class="group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80" >
-                    <img src={project} alt="" class="h-full w-full object-cover object-center transition duration-200
-                     group-hover:scale-110"/>
-                </a>
+                
+                
 
 
                
